@@ -1,0 +1,9 @@
+C:\Users\Acer\Dropbox\Alessandro\Engenharia\4 Semestre\03 - Orientação a Objetos\Projects\Arduino\Arduino\Arduino\bin\Debug\Arduino.exe.config
+C:\Users\Acer\Dropbox\Alessandro\Engenharia\4 Semestre\03 - Orientação a Objetos\Projects\Arduino\Arduino\Arduino\bin\Debug\Arduino.exe
+C:\Users\Acer\Dropbox\Alessandro\Engenharia\4 Semestre\03 - Orientação a Objetos\Projects\Arduino\Arduino\Arduino\bin\Debug\Arduino.pdb
+C:\Users\Acer\Dropbox\Alessandro\Engenharia\4 Semestre\03 - Orientação a Objetos\Projects\Arduino\Arduino\Arduino\obj\Debug\Arduino.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Dropbox\Alessandro\Engenharia\4 Semestre\03 - Orientação a Objetos\Projects\Arduino\Arduino\Arduino\obj\Debug\Arduino.Properties.Resources.resources
+C:\Users\Acer\Dropbox\Alessandro\Engenharia\4 Semestre\03 - Orientação a Objetos\Projects\Arduino\Arduino\Arduino\obj\Debug\Arduino.csproj.GenerateResource.Cache
+C:\Users\Acer\Dropbox\Alessandro\Engenharia\4 Semestre\03 - Orientação a Objetos\Projects\Arduino\Arduino\Arduino\obj\Debug\Arduino.exe
+C:\Users\Acer\Dropbox\Alessandro\Engenharia\4 Semestre\03 - Orientação a Objetos\Projects\Arduino\Arduino\Arduino\obj\Debug\Arduino.pdb
+C:\Users\Acer\Dropbox\Alessandro\Engenharia\4 Semestre\03 - Orientação a Objetos\Projects\Arduino\Arduino\Arduino\obj\Debug\Arduino.frmArduino.resources
